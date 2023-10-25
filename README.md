@@ -1,7 +1,7 @@
-### Hi there 👋
-
-
-**kaiocass2007/kaiocass2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+git init
+git add meu-primeiro-arquivo.md
+git commit -m "Adicionando meu primeiro arquivo"
+git push
 
 
 
